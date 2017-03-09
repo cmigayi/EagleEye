@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/cilo/AndroidStudioProjects/EagleEye/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/cilo/AndroidStudioProjects/EagleEye/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/cilo/AndroidStudioProjects/EagleEye/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/cilo/AndroidStudioProjects/EagleEye/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/cilo/AndroidStudioProjects/EagleEye/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/cilo/AndroidStudioProjects/EagleEye/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/home/cilo/AndroidStudioProjects/EagleEye/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/cilo/AndroidStudioProjects/EagleEye/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+        "merged": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]
