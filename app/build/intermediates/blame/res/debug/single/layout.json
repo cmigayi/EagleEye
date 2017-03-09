@@ -24,12 +24,12 @@
         "source": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
         "merged": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\NEUVILLE\\AndroidStudioProjects\\eagle-eye\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
